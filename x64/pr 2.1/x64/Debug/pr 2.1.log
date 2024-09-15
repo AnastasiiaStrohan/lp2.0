@@ -1,0 +1,2 @@
+﻿  pr 2.1.cpp
+C:\Users\Admin\source\repos\pr 2.1\pr 2.1\pr 2.1.cpp(12,1): error C4700: uninitialized local variable 'x' used
